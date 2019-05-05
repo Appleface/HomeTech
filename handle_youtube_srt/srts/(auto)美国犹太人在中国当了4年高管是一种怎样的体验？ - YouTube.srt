@@ -1,0 +1,721 @@
+﻿1
+00:00:00,060 --> 00:00:02,760
+since the mid-2000s I've been doing a
+
+2
+00:00:02,760 --> 00:00:05,250
+lot of technical work things like IT
+
+3
+00:00:05,250 --> 00:00:07,919
+based systems administration Network
+
+4
+00:00:07,919 --> 00:00:11,130
+administration systems architecture then
+
+5
+00:00:11,130 --> 00:00:13,469
+I went up to you know director of
+
+6
+00:00:13,469 --> 00:00:15,630
+technology IT manager that type of thing
+
+7
+00:00:15,630 --> 00:00:18,480
+and then when I came to China I
+
+8
+00:00:18,480 --> 00:00:21,660
+continued that same trajectory more
+
+9
+00:00:21,660 --> 00:00:24,269
+director of technology eventually a CTO
+
+10
+00:00:24,269 --> 00:00:27,810
+of of a visual effects company here in
+
+11
+00:00:27,810 --> 00:00:30,990
+China so my background really is in
+
+12
+00:00:30,990 --> 00:00:34,920
+technical stuff but I resigned
+ from that career
+
+13
+00:00:34,920 --> 00:00:37,530
+this year and I finished up writing a
+
+14
+00:00:37,530 --> 00:00:40,230
+book which is out now and did a couple
+
+15
+00:00:40,230 --> 00:00:43,200
+of appearances I was on TV and a few
+
+16
+00:00:43,200 --> 00:00:45,960
+pretty big podcasts and other interviews
+
+17
+00:00:45,960 --> 00:00:47,850
+and stuff like that so I've kind of
+
+18
+00:00:47,850 --> 00:00:49,649
+changed my purpose from doing technology
+
+19
+00:00:49,649 --> 00:00:52,949
+to trying to connect with people out in
+
+20
+00:00:52,949 --> 00:00:55,260
+the world and communicate about my story
+
+21
+00:00:55,260 --> 00:00:57,629
+and kind of kind of break out of my
+
+22
+00:00:57,629 --> 00:00:58,500
+shell
+
+23
+00:00:58,500 --> 00:01:01,810
+[Music]
+
+24
+00:01:01,810 --> 00:01:08,110
+now
+
+25
+00:01:08,110 --> 00:01:10,400
+one of the things that originally drew
+
+26
+00:01:10,400 --> 00:01:12,650
+me to technology is that no matter how
+
+27
+00:01:12,650 --> 00:01:13,580
+you look
+
+28
+00:01:13,580 --> 00:01:16,040
+tattoos or you look you know wearing a
+
+29
+00:01:16,040 --> 00:01:18,920
+t-shirt actually as long as you can get
+
+30
+00:01:18,920 --> 00:01:22,340
+the work done efficiently in a good way
+
+31
+00:01:22,340 --> 00:01:23,900
+better than everyone else as long as you
+
+32
+00:01:23,900 --> 00:01:25,880
+can kind of be a rockstar at getting
+
+33
+00:01:25,880 --> 00:01:29,570
+that technological challenge solved
+
+34
+00:01:29,570 --> 00:01:31,670
+they don't care what you look like no
+
+35
+00:01:31,670 --> 00:01:33,470
+one cares they don't care and you can
+
+36
+00:01:33,470 --> 00:01:35,870
+have tattoos on your face and horns if
+
+37
+00:01:35,870 --> 00:01:38,660
+you can solve their problems then theytheir problems
+
+38
+00:01:38,660 --> 00:01:40,130
+want you and so that's one of the
+
+39
+00:01:40,130 --> 00:01:41,750
+reasons that I really started to look at
+
+40
+00:01:41,750 --> 00:01:43,040
+technology as maybe I can do that
+
+41
+00:01:43,040 --> 00:01:45,170
+because I had tattoos and I'm I'm not
+
+42
+00:01:45,170 --> 00:01:49,250
+kind of like a very formal guy and so
+
+43
+00:01:49,250 --> 00:01:51,560
+technology was what I really started to
+
+44
+00:01:51,560 --> 00:01:53,240
+look at in the beginning so at the
+
+45
+00:01:53,240 --> 00:01:54,740
+visual effects company I was working at
+
+46
+00:01:54,740 --> 00:01:56,930
+here in Beijing I worked there for four
+
+47
+00:01:56,930 --> 00:01:59,600
+years and it took a while to get used to
+
+48
+00:01:59,600 --> 00:02:02,000
+the different culture of the work
+
+49
+00:02:02,000 --> 00:02:03,440
+different work environment and that kind
+
+50
+00:02:03,440 --> 00:02:05,060
+of thing I didn't have any opportunity
+
+51
+00:02:05,060 --> 00:02:08,479
+to try to learn John went in school so
+
+52
+00:02:08,479 --> 00:02:11,360
+all the Chinese that I know is from just
+
+53
+00:02:11,360 --> 00:02:12,860
+asking people what are you saying what
+
+54
+00:02:12,860 --> 00:02:14,480
+what is that I'll say it again
+
+55
+00:02:14,480 --> 00:02:15,890
+what do you mean was that mean how does
+
+56
+00:02:15,890 --> 00:02:18,350
+that mean so well clay shall eat the NDA
+
+57
+00:02:18,350 --> 00:02:21,019
+but not too much I was doing technical
+
+58
+00:02:21,019 --> 00:02:22,790
+management before I came to China and
+
+59
+00:02:22,790 --> 00:02:24,950
+that continued when I was here but there
+
+60
+00:02:24,950 --> 00:02:26,959
+was a lot of new challenges like dealing
+
+61
+00:02:26,959 --> 00:02:29,540
+with the cultural shock dealing with the
+
+62
+00:02:29,540 --> 00:02:31,880
+cultural differences understanding the
+
+63
+00:02:31,880 --> 00:02:33,620
+differences in how businesses work and
+
+64
+00:02:33,620 --> 00:02:35,660
+that kind of stuff I managed around a
+
+65
+00:02:35,660 --> 00:02:38,150
+hundred people in six cities four in
+
+66
+00:02:38,150 --> 00:02:41,209
+China one in America and one in Malaysia
+
+67
+00:02:41,209 --> 00:02:42,860
+it was mostly technical staff but also
+
+68
+00:02:42,860 --> 00:02:46,400
+heavily interfaced with HR accounting in
+
+69
+00:02:46,400 --> 00:02:50,690
+the operations teams as a CTO it's an
+
+70
+00:02:50,690 --> 00:02:53,600
+executive position so mumbles my entire
+
+71
+00:02:53,600 --> 00:02:56,720
+day is spent with the CEO the CFO the
+
+72
+00:02:56,720 --> 00:03:00,140
+CEO oh the CCO and the vice-president
+
+73
+00:03:00,140 --> 00:03:02,180
+and they all have very different job
+
+74
+00:03:02,180 --> 00:03:04,580
+responsibilities but I'd say that the
+
+75
+00:03:04,580 --> 00:03:07,340
+CTO is most similar to the CEO Oh
+
+76
+00:03:07,340 --> 00:03:09,620
+every day I'm out there making sure
+
+77
+00:03:09,620 --> 00:03:11,600
+stuff is working and people are getting
+
+78
+00:03:11,600 --> 00:03:13,590
+stuff done and movies are getting made
+
+79
+00:03:13,590 --> 00:03:15,930
+the way that Western people think about
+
+80
+00:03:15,930 --> 00:03:18,300
+work leadership and who's in charge of
+
+81
+00:03:18,300 --> 00:03:20,400
+who and what my responsibilities are and
+
+82
+00:03:20,400 --> 00:03:22,560
+just all these types of things it's
+
+83
+00:03:22,560 --> 00:03:23,670
+totally different than the way that
+
+84
+00:03:23,670 --> 00:03:26,550
+people in China think about them and so
+
+85
+00:03:26,550 --> 00:03:28,620
+there was a lot of frustration there's a
+
+86
+00:03:28,620 --> 00:03:31,440
+lot of learning you know and expanding
+
+87
+00:03:31,440 --> 00:03:32,519
+and growing and being a technical
+
+88
+00:03:32,519 --> 00:03:34,680
+manager like a director of Technology or
+
+89
+00:03:34,680 --> 00:03:37,440
+IT manager you can speak the language of
+
+90
+00:03:37,440 --> 00:03:39,330
+technology to the to your juniors and
+
+91
+00:03:39,330 --> 00:03:41,580
+they can sort of work with you to get
+
+92
+00:03:41,580 --> 00:03:43,470
+the best solution going but being an
+
+93
+00:03:43,470 --> 00:03:45,120
+executive level manager is a bit
+
+94
+00:03:45,120 --> 00:03:47,250
+different because you interface with a
+
+95
+00:03:47,250 --> 00:03:49,080
+lot of people who aren't technical and
+
+96
+00:03:49,080 --> 00:03:51,989
+deal with a lot more interpersonal
+
+97
+00:03:51,989 --> 00:03:55,140
+skills it was a lot more discovery of
+
+98
+00:03:55,140 --> 00:03:58,140
+Who I am as a manager and a leader and
+
+99
+00:03:58,140 --> 00:04:00,420
+there was a lot of mistakes early on a
+
+100
+00:04:00,420 --> 00:04:02,519
+lot of frustration and not understanding
+
+101
+00:04:02,519 --> 00:04:04,080
+the cultural differences and how to push
+
+102
+00:04:04,080 --> 00:04:06,120
+through barriers sometimes I would say
+
+103
+00:04:06,120 --> 00:04:08,220
+things that the Chinese team would
+
+104
+00:04:08,220 --> 00:04:10,170
+misunderstand what I meant and think
+
+105
+00:04:10,170 --> 00:04:12,239
+that I meant something else or they
+
+106
+00:04:12,239 --> 00:04:13,319
+would say something and I would
+
+107
+00:04:13,319 --> 00:04:14,700
+misinterpret what they said so these
+
+108
+00:04:14,700 --> 00:04:16,320
+types of things even with translation
+
+109
+00:04:16,320 --> 00:04:18,690
+there's a level of interpretation that
+
+110
+00:04:18,690 --> 00:04:21,299
+that you just kind of need to get a
+
+111
+00:04:21,299 --> 00:04:23,280
+rhythm for over the years working with
+
+112
+00:04:23,280 --> 00:04:24,930
+Chinese people I've learned a lot of
+
+113
+00:04:24,930 --> 00:04:26,850
+things about them a lot of things about
+
+114
+00:04:26,850 --> 00:04:29,520
+China and I think more importantly a lot
+
+115
+00:04:29,520 --> 00:04:31,320
+of things about myself you know I've
+
+116
+00:04:31,320 --> 00:04:32,729
+known a lot of people in my life I've
+
+117
+00:04:32,729 --> 00:04:35,280
+had many friends and you know I've been
+
+118
+00:04:35,280 --> 00:04:37,320
+in relationships and all that kind of
+
+119
+00:04:37,320 --> 00:04:40,350
+stuff and I say that the thing that
+
+120
+00:04:40,350 --> 00:04:43,500
+really strikes me about Chinese people
+
+121
+00:04:43,500 --> 00:04:45,419
+that I never knew about them before is
+
+122
+00:04:45,419 --> 00:04:49,889
+that I feel like Chinese people are very
+
+123
+00:04:49,889 --> 00:04:52,380
+similar to myself in some ways that are
+
+124
+00:04:52,380 --> 00:04:55,440
+kind of interesting I feel in some ways
+
+125
+00:04:55,440 --> 00:04:57,210
+closer to Chinese people than I do my
+
+126
+00:04:57,210 --> 00:04:58,860
+own people even though I have of course
+
+127
+00:04:58,860 --> 00:05:00,419
+many good friends many close
+
+128
+00:05:00,419 --> 00:05:02,460
+relationships in the West no offense to
+
+129
+00:05:02,460 --> 00:05:05,610
+you guys but in general I tend to get
+
+130
+00:05:05,610 --> 00:05:07,889
+along with Chinese people a little bit
+
+131
+00:05:07,889 --> 00:05:10,139
+better I think that we kind of
+
+132
+00:05:10,139 --> 00:05:12,360
+understand things in a similar way you
+
+133
+00:05:12,360 --> 00:05:15,750
+know they tend to work together on
+
+134
+00:05:15,750 --> 00:05:18,450
+things and tend to have certain views
+
+135
+00:05:18,450 --> 00:05:21,090
+about the world and about their country
+
+136
+00:05:21,090 --> 00:05:23,340
+and themselves that I just really find
+
+137
+00:05:23,340 --> 00:05:24,600
+wonderful and
+
+138
+00:05:24,600 --> 00:05:26,400
+another thing that I think I learned
+
+139
+00:05:26,400 --> 00:05:28,410
+about Chinese people is that they're
+
+140
+00:05:28,410 --> 00:05:31,440
+really into teams right they really like
+
+141
+00:05:31,440 --> 00:05:33,030
+to build stuff as a team build things
+
+142
+00:05:33,030 --> 00:05:35,790
+together and to cooperate to get things
+
+143
+00:05:35,790 --> 00:05:38,760
+done which is really nice because in the
+
+144
+00:05:38,760 --> 00:05:42,030
+West you get a bunch of people who all
+
+145
+00:05:42,030 --> 00:05:44,670
+try to go and be mr. hero and go try to
+
+146
+00:05:44,670 --> 00:05:47,550
+save the day and a lot of them just suck
+
+147
+00:05:47,550 --> 00:05:49,860
+at what they do they just have been told
+
+148
+00:05:49,860 --> 00:05:51,780
+that they're good they they're told that
+
+149
+00:05:51,780 --> 00:05:53,250
+they're amazing they're told that
+
+150
+00:05:53,250 --> 00:05:54,630
+they're special all the time that
+
+151
+00:05:54,630 --> 00:05:56,490
+they're this amazing person they're not
+
+152
+00:05:56,490 --> 00:05:58,410
+good at their job and so you have to
+
+153
+00:05:58,410 --> 00:06:00,060
+like get them all together
+
+154
+00:06:00,060 --> 00:06:02,700
+careful their fragile ego you know don't
+
+155
+00:06:02,700 --> 00:06:04,710
+insult them when try they like they're
+
+156
+00:06:04,710 --> 00:06:07,380
+just like babies I don't know and
+
+157
+00:06:07,380 --> 00:06:08,580
+there's something different about the
+
+158
+00:06:08,580 --> 00:06:10,920
+way people work in China where you have
+
+159
+00:06:10,920 --> 00:06:12,360
+people that are kind of more focused on
+
+160
+00:06:12,360 --> 00:06:14,250
+getting the job done like actually
+
+161
+00:06:14,250 --> 00:06:16,290
+working and I have a very strong work
+
+162
+00:06:16,290 --> 00:06:18,180
+ethic and I you know I just really
+
+163
+00:06:18,180 --> 00:06:19,380
+appreciate that is something that I
+
+164
+00:06:19,380 --> 00:06:21,990
+didn't know about Chinese people there's
+
+165
+00:06:21,990 --> 00:06:23,610
+so many things that I want to say about
+
+166
+00:06:23,610 --> 00:06:25,650
+Chinese people not just that work but
+
+167
+00:06:25,650 --> 00:06:27,450
+also my personal relationships with them
+
+168
+00:06:27,450 --> 00:06:29,940
+some of my close friends here my band
+
+169
+00:06:29,940 --> 00:06:32,910
+mates and other people that I really
+
+170
+00:06:32,910 --> 00:06:34,200
+want to do some videos to kind of
+
+171
+00:06:34,200 --> 00:06:38,040
+explore the interactions and kind of
+
+172
+00:06:38,040 --> 00:06:39,900
+really expose what I'm talking about
+
+173
+00:06:39,900 --> 00:06:42,660
+because I think about these things all
+
+174
+00:06:42,660 --> 00:06:46,080
+the time very in-depth very detailed and
+
+175
+00:06:46,080 --> 00:06:49,590
+I come up with these opinions based on
+
+176
+00:06:49,590 --> 00:06:52,500
+evidence and I think that the way that I
+
+177
+00:06:52,500 --> 00:06:55,199
+feel about Chinese people is
+
+178
+00:06:55,199 --> 00:06:58,050
+and you know I'd love to do some videos
+
+179
+00:06:58,050 --> 00:06:59,890
+about that
+
+180
+00:06:59,890 --> 00:07:04,310
+[Music]
+
